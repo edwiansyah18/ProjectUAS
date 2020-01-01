@@ -46,7 +46,7 @@ Nama dan score pemain akan di simpan di record kemudian di masukan kedalam recor
 
 MIT License
 <details>
-  <summary>Copyright (c) 2019 edwiansyah18</summary>
+  <summary>Copyright (c) 2020 edwiansyah18</summary>
 
 <p align="justify">Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
