@@ -2,7 +2,7 @@
 
 * [Description](#description)
 * [Installation](#installation)
-* [Usage](#usage)
+* [How to Play](#How to Play)
 * [License](#license)
 
 ## Description
