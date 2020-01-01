@@ -18,27 +18,27 @@ Untuk dapat menggunakan Hangman Battle, Anda perlu melakukan hal berikut :
 
 ## How to Play
 ### Menu
-![Menu](/ss/menu.png)
+![Menu](/ss/menu.PNG)
 
 Pengguna akan masuk ke tampilan menu, tekan sembarang tombol untuk memainkan game.
 ### Rules and Control
-![Rules&Control](/ss/RC.png)
+![Rules&Control](/ss/RC.PNG)
 
 Tmapilan Rules dan Control dalam game ini.
 ### Bersiap-siap.......
-![Preparing](/ss/prep.png)
+![Preparing](/ss/prep.PNG)
 
 UI preparing.
 ### Lets Play The Game!
-![Play](/ss/play.png)
+![Play](/ss/play.PNG)
 
 Makan sebanyak-banyaknya target dan raihlah poin tertinggimu.
 ### Game END
-![End](/ss/end.png)
+![End](/ss/end.PNG)
 
 Pemain telah menghabiskan semua life nya dan game selesai.
 ### Highscore
-![Score](/ss/score.png)
+![Score](/ss/score.PNG)
 
 Nama dan score pemain akan di simpan di record kemudian di masukan kedalam record highscore game ini.
 
