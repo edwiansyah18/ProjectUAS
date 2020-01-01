@@ -16,7 +16,7 @@ Untuk dapat menggunakan Hangman Battle, Anda perlu melakukan hal berikut :
 2. Buka source-code menggunakan C compiler. Jika Anda tidak memilikinya, [download disini](https://sourceforge.net/projects/orwelldevcpp/files/latest/download)
 3. Kemudian, jalankan dengan cara meng-compile main-program.c, .dev, atau langsung memainkannya dengan file .exe
 
-## Usage
+## How to Play
 ### Menu
 ![Menu](/ss/menu.png)
 
